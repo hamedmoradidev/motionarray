@@ -115,6 +115,7 @@ main{
                                                 align-items: center;
                                               
                                                 >a{
+                                                    color: white;
                                                     display: flex;
                                                     justify-content: left;
                                                     align-items: center;
@@ -190,6 +191,7 @@ main{
                         }
                         }
                         >a{
+                            color: var(--fontw);
                             display: flex;
                             justify-content: center;
                             align-items: center;
@@ -573,7 +575,7 @@ main{
                             cursor: pointer;
                             outline: none;
                             padding: 15px 0px;
-                            border-bottom: 1px solid rgba(167, 167, 167, 0.377);
+                            border-bottom: 1px solid rgba(167, 167, 167, 0.400);
                             display: flex;
                             justify-content: space-between;
                             align-items:center;
@@ -592,7 +594,7 @@ main{
                             padding: 10px 0px;
                             display: none;
                             overflow: hidden;
-                            border-bottom: 1px solid rgba(167, 167, 167, 0.377);
+                            border-bottom: 1px solid rgba(167, 167, 167, 0.400);
                         }
                 }
                 >figure{

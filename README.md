@@ -1,6 +1,6 @@
 <h1 align="center" id="title">motion array</h1>
 
-<p id="description">A theme Coded by Hamed Moradi</p>
+<p id="description">A project by Hamed Moradi</p>
 
 <h2>🚀 Demo</h2>
 

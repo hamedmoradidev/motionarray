@@ -19,7 +19,7 @@ Technologies used in the project:
 
 <img src="https://github.com/user-attachments/assets/1513965e-a0cf-4c03-b42e-923db6601cc1" alt="project-screenshot" width="1000" height="500/">
 
-<img src="https://github.com/user-attachments/assets/055491f3-8bec-4c9d-a9e8-964ac5006134" width="1000" height="500/">
+<img src="https://github.com/user-attachments/assets/055491f3-8bec-4c9d-a9e8-964ac5006134" alt="project-screenshot" width="1000" height="500/">
 
 <img src="https://github.com/user-attachments/assets/e1997648-a53a-4045-85fe-f8d5c190a56e" alt="project-screenshot" width="1000" height="500/">
 

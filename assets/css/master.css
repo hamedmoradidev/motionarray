@@ -272,7 +272,7 @@ main{
                     flex-wrap: wrap;
                     align-content: end;
                     gap: 30px;
-                    width: 50%;
+                    width: 60%;
                     padding-right: 100px;
                     >h2{
                         font-size: 62px;
@@ -308,8 +308,8 @@ main{
                     }
                 }
                 >figure{
-                    width: 50%;
-                    max-width: 50%;
+                    width: 40%;
+                    max-width: 40%;
                     display: flex;
                 }
             }

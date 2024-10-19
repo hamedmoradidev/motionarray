@@ -11,6 +11,9 @@
     --font:#00011d99;
     --fontw:rgb(207, 205, 207);
 }
+body{
+    overflow-x: hidden;
+}
 .row{
     display: flex;
     justify-content: center;
@@ -255,7 +258,8 @@ main{
     }
     }
     >.first{     
-        height: 100vh;
+        margin-top: 14vh;
+        height: 80vh;
         width: 100%;
         >div{
             &:first-of-type{
@@ -305,8 +309,8 @@ main{
                 }
                 >figure{
                     width: 50%;
+                    max-width: 50%;
                     display: flex;
-                    justify-content:end;
                 }
             }
             &:last-of-type{
@@ -599,7 +603,7 @@ main{
                 }
                 >figure{
                     position: absolute;
-                    top: -225px;
+                    top: -110px;
                     right: 0px;
                     width: 25%;
                     display: flex;
